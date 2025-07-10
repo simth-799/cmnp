@@ -1,0 +1,24 @@
+<< Toad for Oracle >>
+
+* Account ID: 1-6O2M54N 
+
+1) License Number: 144-178-745
+  ㄴ Site Account (http://quest.com) : kung7891@naver.com 
+  ㄴ Base Edition
+	ㄴ License key: DAJMZ6G513FS7PY2RQZW5WDYR5DJRMUCCB-144-178-745-BB 
+	ㄴ Site Message: CMNP 
+	ㄴ Number of Seat(s): 2 
+
+  ㄴ Base Edition with DB Admin
+	ㄴ License key: C1SYKFP48F1ZNGUGXNT8SFBSVL2GVZ54MY6NB-144-178-745-47 
+	ㄴ Site Message: CMNP 
+	ㄴ Number of Seat(s): 1 
+
+
+2) License Number: 144-205-263
+  ㄴ Site Account (http://quest.com) : simth.799@cmnp.co.kr / hVU8SAfnjtsu532
+  ㄴ Base Edition
+	ㄴ License key: E1FV8F0BVHX88MLPBTTM246LLK88W5Y68M-144-205-263-C7 
+	ㄴ Site Message: CMNP 
+	ㄴ Number of Seat(s): 1 
+
